@@ -1,9 +1,8 @@
-# Real Estate Analysis: King County
-
-Top features that contribute to housing sale prices.
-
-## Home Prices Analysis King County, Washington
 **Authors:** Namita Rana, Jeremias Campos, Jose Harper
+
+# Home Prices Analysis King County, Washington
+
+![Houses](https://github.com/namitarana1/Phase2_Test/blob/hola/Images/Real_Estate_Analysis_Flatiron%20Small.png)
 
 ## Introduction
 We were hired to predict the best attributes that influence housing prices in Kings Country, Washington. We must inform our stakeholders which features are the best predictors of home price in todays housing market. 
