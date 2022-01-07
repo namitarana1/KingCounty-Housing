@@ -4,6 +4,7 @@
 
 ![Houses](https://github.com/namitarana1/Phase2_Test/blob/hola/Images/Real_Estate_Analysis_Flatiron%20Small.png)
 
+
 ## Introduction
 We were hired to predict the best attributes that influence housing prices in Kings Country, Washington. We must inform our stakeholders which features are the best predictors of home price in todays housing market. 
 
@@ -38,3 +39,25 @@ After completing a simple linear regression model or baseline model. We noticed 
 Future Steps:
 - Use the median prices for each of the 20 unique zip codes
 - Get the data for time of year the houses are being sold and at what what price.
+
+## For More Information
+
+Please review my full analysis in ![my Jupyter Notebook](/KingCounty_HousingPrice_Analysis.ipynb).
+If problems arise with github, view our code on ![vbviewer](https://nbviewer.org/github/namitarana1/KingCounty-Housing/blob/main/KingCounty_HousingPrice_Analysis.ipynb)
+
+For any additional questions,
+please contact our team:
+- Namita Rana at <namitarana21@gmail.com>
+- Jeremias Campos at <jeremiascampos3@gmail.com>
+- Jose Harper at <harper.jose@gmail.com>
+
+
+
+## Repository Structure
+
+```
+├── Images<- 
+├── Docs
+├── KingCounty_HousingPrice_Analysis.pptx                               
+└── KingCounty_HousingPrice_Analysis.ipynb                           
+```
