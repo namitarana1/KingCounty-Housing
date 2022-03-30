@@ -29,12 +29,12 @@ We started by construsting a simple linear regression to form our baseline stati
 
 
 ## Regression Results
-After completing a simple linear regression model or baseline model. We noticed a 49% variance in the R^2 value after running the simple regressino model. Next we used the kitchen sink method, which is throwing in all the features/variables into the multiregression model and finding the R^2 until we found the optimum features to predict housing prices. After 5 models we were able to determine that square feet, amount of bedrooms and lot size were the most promanent features to determining housing prices in Kings County, Washington. We were able to get all the way up to 65% variance in our predictive model.
+After completing a simple linear regression model or baseline model. We noticed a 49% variance in the R^2 value after running the simple regression model. Next we used the kitchen sink method, which is throwing in all the features/variables into the multiregression model and finding the R^2 until we found the optimum features to predict housing prices. After 5 models we were able to determine that square feet, amount of bedrooms and lot size were the most prominent features in determining housing prices in Kings County, Washington. We were able to get all the way up to 65% variance in our predictive model.
 
 
 ## Conclusion
 
-**Reccomendations for buying homes in Kings County, Washington:**
+**Recommendations for buying homes in Kings County, Washington:**
 - Square footage, amount of bedrooms, and water view are the main 3 contributing facotrs to house prices. We were able to predict variance on average of 65%.
 Future Steps:
 - Use the median prices for each of the 20 unique zip codes
