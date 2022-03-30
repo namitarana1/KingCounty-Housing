@@ -11,7 +11,7 @@ We were hired to predict the best attributes that influence housing prices in Ki
 ## Business Understanding
 **Stakeholder:** Seattle Bank 
 
-**Business Problem:** Banks give home loans based on the ability of the buyer to afford a home at a certain price point. We want to make sure that the value of the home is eqaul to or less than the mortage amount that will be given to the buyer. 
+**Business Problem:** Banks give home loans based on the ability of the buyer to afford a home at a certain price point. We want to make sure that the value of the home is equal to or less than the mortage amount that will be given to the buyer. 
 
 **Subproblem:**
 Houses have many features that help in determining housing prices so we need to narrow the criteria by coming up with a regression model that helps predict the value in Kings County.
@@ -25,7 +25,7 @@ We were given data for Kings County houses from 2014-2015. This data includes ap
 
 
 ## Modelling
-We started by construsting a simple linear regression to form our baseline statistics to get important information such as R^2 value, RSME, F-statistic, colinearity of features, and error measurements that reflect the quality of the regression model.
+We started by constructing a simple linear regression to form our baseline statistics to get important information such as R^2 value, RSME, F-statistic, colinearity of features, and error measurements that reflect the quality of the regression model.
 
 
 ## Regression Results
