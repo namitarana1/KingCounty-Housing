@@ -42,8 +42,8 @@ Future Steps:
 
 ## For More Information
 
-Please review my full analysis in ![my Jupyter Notebook](/KingCounty_HousingPrice_Analysis.ipynb).
-If problems arise with github, view our code on ![vbviewer](https://nbviewer.org/github/namitarana1/KingCounty-Housing/blob/main/KingCounty_HousingPrice_Analysis.ipynb)
+Please review my full analysis in [my Jupyter Notebook](/KingCounty_HousingPrice_Analysis.ipynb).
+If problems arise with github, view our code on [vbviewer](https://nbviewer.org/github/namitarana1/KingCounty-Housing/blob/main/KingCounty_HousingPrice_Analysis.ipynb)
 
 For any additional questions,
 please contact our team:
